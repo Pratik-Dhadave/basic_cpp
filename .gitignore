@@ -1,0 +1,18 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.app
+
+# Ignore object files and libraries
+*.o
+*.a
+*.so
+
+# Ignore generated files
+Makefile
+CMakeLists.txt.user
+CMakeFiles/
+
+# Ignore build directories
+build/
+bin/
